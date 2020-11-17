@@ -16,6 +16,19 @@ user Can Search in news About Specific news And he can share it Also and save th
 * Coroutines
 * Room
 
+![](https://github.com/HassanAlex/Breaking_News/blob/devo/Images/breakingNewsGif.gif)
+
+<img src="Images/01.jpg" height=300, width=200 >
+
+<img src="Images/02.jpg" height=300, width=200 >
+
+<img src="Images/03.jpg" height=300, width=200 >
+
+<img src="Images/04.jpg" height=300, width=200 >
+
+<img src="Images/05.jpg" height=300, width=200 >
+
+
 ## Libraries
 ```bash
 apply plugin: 'kotlin-android-extensions'
