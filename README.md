@@ -15,6 +15,7 @@ user Can Search in news About Specific news And he can share it Also and save th
 * Retrofit2
 * Coroutines
 * Room
+* Navigation Component
 
 ![](https://github.com/HassanAlex/Breaking_News/blob/devo/Images/breakingNewsGif.gif)
 
