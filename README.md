@@ -23,8 +23,6 @@ user Can Search in news About Specific news And he can share it Also and save th
 
 <img src="Images/02.jpg" height=300, width=200 >
 
-<img src="Images/03.jpg" height=300, width=200 >
-
 <img src="Images/04.jpg" height=300, width=200 >
 
 <img src="Images/05.jpg" height=300, width=200 >
